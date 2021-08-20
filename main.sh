@@ -21,3 +21,4 @@ sudo apt install audacity -y
 sudo apt install obs-studio -y
 sudo apt install gparted -y
 sudo apt install git -y
+sudo apt install keepassxc -y
